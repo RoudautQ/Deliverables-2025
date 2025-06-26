@@ -6,6 +6,10 @@ Vous y découvrirez une sélection de livrables démontrant mes compétences en 
 Pour ces projets, j’ai utilisé diverses technologies et logiciels, tels que Excel, Python, SQL, Power BI, Tableau, et Miro.
 Chaque dossier présenté correspond aux livrables produits dans le cadre de ces travaux.
 
+[**Cliquez ici pour ouvrir le portfolio (PDF)**](https://github.com/RoudautQ/Aeroworld-/raw/main/Roudaut_Quitterie_Portfolio_062025.pdf)
+
+Quitterie Roudaut
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # Welcome,
@@ -16,3 +20,6 @@ You will find a selection of deliverables that demonstrate my skills in data ana
 These projects were developed using a range of technologies and software, including Excel, Python, SQL, Power BI, Tableau, and Miro.
 Each folder presented here corresponds to the deliverables produced as part of these assignments.
 
+[**Click here to open the portfolio (PDF)**](https://github.com/RoudautQ/Aeroworld-/raw/main/Roudaut_Quitterie_Portfolio_062025.pdf)
+
+Quitterie Roudaut
